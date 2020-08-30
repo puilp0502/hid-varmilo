@@ -1,0 +1,12 @@
+Source: hid-varmilo-dkms
+Section: misc
+Priority: optional
+Maintainer: Frank Yang <puilp0502@gmail.com>
+Build-Depends: debhelper (>= 10), dkms
+Standards-Version: 4.1.2
+
+Package: hid-varmilo-dkms
+Architecture: any
+Depends: ${misc:Depends}, dkms
+Description: HID Driver for Varmilo Keyboards
+

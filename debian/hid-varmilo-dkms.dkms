@@ -1,0 +1,6 @@
+PACKAGE_NAME="hid-varmilo"
+PACKAGE_VERSION="#MODULE_VERSION#"
+BUILT_MODULE_NAME[0]="hid-varmilo"
+DEST_MODULE_LOCATION[0]="/kernel/drivers/hid/"
+AUTOINSTALL="YES"
+
