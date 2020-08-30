@@ -1,0 +1,8 @@
+Linux Driver for Varmilo Keyboard
+==================================
+
+Supported Keyboard: 
+- Varmilo VA104M (04b4:07b1)
+
+Note: If your keyboard works out of the box, you probably don't need this driver.
+      This driver is intended to fix quirks of the Varmilo keyboards.
